@@ -1,0 +1,31 @@
+.main-signup-wraper {
+  margin-top:13% !important;
+  position: relative
+}
+.password-input-wrapper {
+    position: relative;
+  }
+  
+  .password-toggle-icon {
+    position: absolute;
+    top: 50%;
+height: 30px;
+    right: 30px;
+    transform: translateY(-60%);
+    cursor: pointer;
+  }
+  
+  .form{
+    /* height: 400px !important; */
+    margin: 40px 40px 20px 40px;
+  }
+  a{font-family: Lato, sans-serif;
+    color:#FF9119 !important;
+    font-weight: bolder;
+  }
+  .loginlink a{
+    text-decoration: none;
+  }
+  .loginlink a:hover{
+    text-decoration-line: underline;
+  }

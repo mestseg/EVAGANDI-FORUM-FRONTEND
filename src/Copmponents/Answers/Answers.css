@@ -1,0 +1,34 @@
+
+.input-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.answer-input {
+  width: 750px !important;
+  height: 220px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.links {
+  text-align: center !important;
+  text-decoration: none;
+  color: black;
+ 
+}
+.links:hover{
+  text-decoration: underline;
+  color: blue;
+}
+.butto{
+  margin-left: 20%;
+  font-size: 24px;
+  padding: 14px;
+}
+.main{
+  margin-top: 150px;
+  margin-left: 20%;
+}

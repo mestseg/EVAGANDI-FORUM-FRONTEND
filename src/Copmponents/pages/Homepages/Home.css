@@ -1,0 +1,28 @@
+.welcome{
+    margin-left: 50%;
+   
+}
+.home-page{
+    margin-top: 12%;
+  
+}
+.search-input {
+    width: 100%; 
+    max-width: 300px; 
+    padding: 8px; 
+    font-size: 14px;
+  }
+  
+.askQ{
+justify-content: space-between;
+min-height: 10vh;
+color: rgb(236, 38, 38) !important;
+text-decoration: solid underline;
+}
+
+.askQ:hover{
+    color: blue !important
+}
+.ask{
+    margin-top: 10px;
+}
